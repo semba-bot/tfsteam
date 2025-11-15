@@ -1,0 +1,30 @@
+---
+title: "TFS SPORTS CLUB"
+image: shoot.jpg
+about: 
+  template: jolla
+  image-shape: rectangle
+  image-width: 25em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:@tfs.go.tz
+    - text: Github 
+      icon: github
+      href: https://github.com/
+    - text: YouTube
+      icon: youtube
+      href: https://youtube.com/    
+  id: tfs
+---
+:::{#tfs}
+Tanzania Forest Services (TFS) is a semi-autonomous government Executive Agency whose establishment is supported by the Executive Agency Act (Cap. 245 Revised Edition 2009), the National Forest and Beekeeping Policies adopted in March 1998 and administered through The Forest Act (No. 14 of 2002) and Beekeeping Act (No. 15 of 2002) which provides the legal framework for the management of forests and bee resources.
+
+The Agency has also formed football, netball, and basketball teams to improve employee health, fitness, and morale. These teams compete in internal tournaments, such as the inter-zonal "Bonanza" at the Sao Hill plantation is consdered as a zonal during this tournaments, and external ones like the Public and Private Sports Association (SHIMMUTA) league. In the 2024 season, the TFS team reached the finals.
+ ![Drill training at Aghakhan Arusha](IMG-20251115-WA0208.jpg)
+ 
+
+The Tanzania Forest Services (TFS) Agency was established to manage forest and bee resources. Due to its expertise, its mandate was expanded to include developing and managing historical antiquates and promoting tourism in natural forests.
+ 
+Establishment of this teams will provides worker with higher morale in daily conservation activities, cooperation and moral
+:::

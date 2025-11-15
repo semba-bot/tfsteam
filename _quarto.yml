@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "TFS SPORT CLUB"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - History.qmd
+      - photos.qmd
+      - events.qmd
+      - contacts.qmd
+format:
+  html:
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5em
+    fontcolor: "#0013d5"
+    linkcolor: "#ff33f0"
+    monofont: courier new
+    css: styles.css
+    toc: true
+
+
+
