@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - History.qmd
+      - history.qmd
       - photos.qmd
       - events.qmd
       - contacts.qmd

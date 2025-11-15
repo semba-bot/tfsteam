@@ -1,6 +1,6 @@
 ---
 title: "TFS SPORTS CLUB"
-image: shoot.jpg
+image: image8.jpg
 about: 
   template: jolla
   image-shape: rectangle
