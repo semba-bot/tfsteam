@@ -1,9 +1,11 @@
 ---
 title: "photos"
+image: true
 id: tfs
 ---
 :::{#tfs}
-SHIMMUTA and interzonal (Bonanza) competition highlights in photos 
+
+SHIMMUTA and inter zonal (Bonanza) competition highlights in photos 
 
 ![TFS football funs at SHIMMUTA Tanga](IMG-20241116-WA0086.jpg){fig-width=0.5}  
  ![](IMG-20251115-WA0180.jpg){}

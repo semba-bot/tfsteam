@@ -8,16 +8,21 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - history.qmd
-      - photos.qmd
-      - events.qmd
-      - contacts.qmd
+      - href: history.qmd
+        text: History
+      - href: photos.qmd
+        text: Photos      
+      - href: events.qmd
+        text: events
+      - href: contacts.qmd
+        text: Contacts
+        
 format:
   html:
     theme: sandstone
     mainfont: arial
     fontsize: 1.5em
-    fontcolor: "#0013d5"
+    fontcolor: "#1D3605"
     linkcolor: "#ff33f0"
     monofont: courier new
     css: styles.css

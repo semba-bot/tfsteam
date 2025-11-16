@@ -1,7 +1,8 @@
 ---
 title: "events"
+image: true
 ---
-TFs intensifies sports Preparation
+TFS intensifies sports Preparation
 
 by our correspondents Arusha.
 
@@ -9,6 +10,8 @@ Sports ranger from the Tanzania forest service (TFS) conducting daily training a
 
 TFS Sports coordinator, senior conservator Marcel Bituro, stated that sports are a vital tools for rangers, boosting their health, cooperation, and strength for their daily forest conservation duties.
 
-Beyond competition prep, the training also serves as a platform to reinforce the importance of combating forest crime and promoting sustainable resource use. The rangers has pledge to be TFs ambassadors, aiming to present the institution with high standards.
+Beyond competition prep, the training also serves as a platform to reinforce the importance of combating forest crime and promoting sustainable resource use. The rangers has pledge to be TFS ambassadors, aiming to present the institution with high standards.
 
 TFS leaders is supporting team with equipment and a conducive training environment, which has boosted morale and strengthened workplace camaraderie. The rangers are now in the final stages of preparation, confident of showing TFS's capabilities both on the sports field and in their conservation work.
+
+![](IMG-20251115-WA0156.jpg)
