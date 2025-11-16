@@ -9,13 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - href: history.qmd
-        text: history
-      - href: photos.qmd
-        text: photos      
-      - href: events.qmd
-        text: events
-      - href: contacts.qmd
-        text: contacts
+        text: "History"
+      - href: photos.html
+        text: "Photos"      
+      - href: events.html
+        text: "Events"
+      - href: contact.html
+        text: "Contacts"
         
 format:
   html:

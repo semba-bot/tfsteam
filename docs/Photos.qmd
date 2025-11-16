@@ -1,4 +1,14 @@
 ---
 title: "photos"
+image: true
+image-width: 10em
+image-height: 9em
 ---
-picha mbalimbali za matukio wakati wa mashindano ya shimuta
+
+SHIMMUTA and inter zonal (Bonanza) competition highlights in photos 
+
+![TFS football funs at SHIMMUTA Tanga](IMG-20241116-WA0086.jpg)  
+ 
+ 
+ 
+![Netball fixtures SHIMMUTA 2024 TANGA](IMG-20241112-WA0010.jpg){}
