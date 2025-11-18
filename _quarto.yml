@@ -1,21 +1,18 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
-  title: "TFS SPORT CLUB"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: history.qmd
-        text: "History"
-      - href: photos.html
-        text: "Photos"      
-      - href: events.html
-        text: "Events"
-      - href: contact.html
-        text: "Contacts"
+    title: "TFS SPORT CLUB"
+    page-footer: "Copyright 2025, TFS"
+    navbar:
+      left:
+        - href: index.qmd
+          text: Home
+        - history.qmd
+        - photos.qmd
+        - events.qmd
+        - contacts.qmd
         
 format:
   html:

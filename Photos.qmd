@@ -1,9 +1,10 @@
 ---
-title: "photos"
+title: "Photos"
 image: true
 image-width: 10em
 image-height: 9em
 ---
+
 
 SHIMMUTA and inter zonal (Bonanza) competition highlights in photos 
 
